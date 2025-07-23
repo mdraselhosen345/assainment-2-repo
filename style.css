@@ -70,8 +70,53 @@
     color:#E95A08;
 }
 .hero-pragarph{
+    padding-top: 0px;
     color:rgba(0, 0, 0, 0.5);
     font-size: 22px;
     padding-bottom: 10px;
 }
+/* card section start */
+
+.title-container{
+    margin-top: 100px;
+    text-align: center;
+     padding-left: 150px;
+     padding-right: 150px;
+
+}
+.card-title{
+    font-size: 50px;
+    font-weight: bold;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
